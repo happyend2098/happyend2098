@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m happyend2098!
 
-<!--
-**happyend2098/happyend2098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **Software Engineer** who loves building robust, scalable applications and exploring new technologies. I thrive on solving complex problems and constantly expanding my skillset.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Skills
+- **Languages:** JavaScript / TypeScript, PHP, Python, C++ / C#, Rust
+- **Frameworks & Libraries:** React, Angular, Django
+- **Databases:** MySQL, MongoDB, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I’m Working On
+- Always learning and experimenting with new technologies
+- Building creative solutions that make a difference
+
+## 📈 GitHub Stats
+
+![happyend2098's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyend2098&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happyend2098&layout=compact&theme=radical)
+
+---
+
+*Thanks for visiting my profile! Feel free to reach out or check back for updates!*
